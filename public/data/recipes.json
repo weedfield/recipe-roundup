@@ -1,0 +1,1521 @@
+[
+  {
+    "_id": "1",
+    "title": "レモンとセロリのサラダ",
+    "catchCopy": "レモンとセロリのソースで仕上げた夏にぴったりのサラダです！",
+    "calories": "120 kcal",
+    "category": "副菜",
+    "ingredients": [
+      { "name": "セロリ", "quantity": "2本" },
+      { "name": "レモン", "quantity": "1個" },
+      { "name": "オリーブオイル", "quantity": "大さじ2" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "セロリを薄切りにする。",
+        "note": "セロリを薄切りにする際は、できるだけ均等に切ると食感が良くなります。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "レモンを絞ってジュースを取る。",
+        "note": "レモンジュースを絞る際、種が入らないように注意してください。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "ボウルにセロリとレモンジュース、オリーブオイル、塩、胡椒を入れて混ぜる。",
+        "note": "全体がよく混ざるようにしっかりと混ぜてください。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "冷蔵庫で30分冷やしてから提供する。",
+        "note": "冷やすことで味がなじみ、より美味しくなります。",
+        "image": ""
+      }
+    ],
+    "labels": ["ダイエット", "バランス"],
+    "cookingTime": "30分",
+    "nutrition": {
+      "protein": "2g",
+      "fat": "10g",
+      "carbohydrates": "5g",
+      "vitamins": ["ビタミンC", "ビタミンK"],
+      "minerals": ["カリウム", "カルシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "このサラダは夏にぴったりの爽やかな一品です。レモンの酸味とセロリのシャキシャキ感が絶妙にマッチしています。",
+    "published_at": "2024-09-01T10:00:00Z",
+    "likes": 30
+  },
+  {
+    "_id": "2",
+    "title": "チキンカレー",
+    "catchCopy": "スパイシーで濃厚な味わいのチキンカレー。",
+    "calories": "450 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "鶏胸肉", "quantity": "200g" },
+      { "name": "玉ねぎ", "quantity": "1個" },
+      { "name": "にんじん", "quantity": "1本" },
+      { "name": "じゃがいも", "quantity": "2個" },
+      { "name": "カレールー", "quantity": "1箱" },
+      { "name": "水", "quantity": "500ml" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "鶏胸肉を一口大に切る。",
+        "note": "鶏肉は均等に切ることで、火の通りが均一になります。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "玉ねぎを薄切りにする。",
+        "note": "玉ねぎを炒めるときは、焦げないように注意してください。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "にんじんとじゃがいもを一口大に切る。",
+        "note": "じゃがいもは切った後、水にさらしておくと変色を防げます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "鍋に油を熱し、玉ねぎを炒める。",
+        "note": "玉ねぎが透明になるまで炒めると、甘みが引き出されます。",
+        "image": ""
+      },
+      {
+        "step_number": 5,
+        "description": "鶏肉を加えて炒める。",
+        "note": "鶏肉の表面が白くなるまで炒めます。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      },
+      {
+        "step_number": 6,
+        "description": "にんじんとじゃがいもを加え、水を注ぐ。",
+        "note": "野菜が柔らかくなるまで煮込みます。",
+        "image": ""
+      },
+      {
+        "step_number": 7,
+        "description": "カレールーを加えて溶かし、さらに煮込む。",
+        "note": "ルーを加えた後は焦げないように弱火で煮込みます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      }
+    ],
+    "labels": ["スパイシー", "ボリューム満点"],
+    "cookingTime": "60分",
+    "nutrition": {
+      "protein": "30g",
+      "fat": "15g",
+      "carbohydrates": "40g",
+      "vitamins": ["ビタミンA", "ビタミンC"],
+      "minerals": ["鉄", "亜鉛"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "4人前",
+    "story": "家族みんなが大好きな定番のチキンカレー。スパイシーで濃厚な味わいが楽しめます。",
+    "published_at": "2024-08-28T10:00:00Z",
+    "likes": 50
+  },
+  {
+    "_id": "3",
+    "title": "トマトとバジルのパスタ",
+    "catchCopy": "シンプルで爽やかなトマトとバジルのパスタ。",
+    "calories": "350 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "スパゲッティ", "quantity": "200g" },
+      { "name": "トマト", "quantity": "2個" },
+      { "name": "バジル", "quantity": "10枚" },
+      { "name": "オリーブオイル", "quantity": "大さじ2" },
+      { "name": "にんにく", "quantity": "1片" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "スパゲッティを茹でる。",
+        "note": "塩を入れたたっぷりの湯で茹でます。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "トマトを湯むきして角切りにする。",
+        "note": "湯むきすると皮が簡単に剥けます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "フライパンにオリーブオイルとみじん切りにしたにんにくを入れて炒める。",
+        "note": "にんにくが香ばしくなるまで炒めます。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "トマトを加え、塩・胡椒で味を整える。",
+        "note": "トマトが崩れるまで炒めます。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      },
+      {
+        "step_number": 5,
+        "description": "茹でたスパゲッティとバジルを加えてさっと混ぜる。",
+        "note": "バジルは最後に加えて香りを引き立たせます。",
+        "image": ""
+      }
+    ],
+    "labels": ["シンプル", "爽やか"],
+    "cookingTime": "20分",
+    "nutrition": {
+      "protein": "12g",
+      "fat": "14g",
+      "carbohydrates": "50g",
+      "vitamins": ["ビタミンC", "ビタミンA"],
+      "minerals": ["カリウム", "鉄"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "イタリアンの定番であるトマトとバジルのパスタは、シンプルながらも奥深い味わいがあります。",
+    "published_at": "2024-09-05T10:00:00Z",
+    "likes": 40
+  },
+  {
+    "_id": "4",
+    "title": "グリルドチキンと野菜",
+    "catchCopy": "ヘルシーで満足感のあるグリルドチキンと野菜。",
+    "calories": "300 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "鶏胸肉", "quantity": "200g" },
+      { "name": "ズッキーニ", "quantity": "1本" },
+      { "name": "パプリカ", "quantity": "1個" },
+      { "name": "オリーブオイル", "quantity": "大さじ1" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "鶏胸肉を一口大に切り、塩・胡椒をまぶす。",
+        "note": "鶏肉に下味をつけておくと、味がしっかりとつきます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "ズッキーニとパプリカを適当な大きさに切る。",
+        "note": "野菜は均等な大きさに切ると、焼きムラがなくなります。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "グリルパンにオリーブオイルを熱し、鶏肉を焼く。",
+        "note": "鶏肉は両面に焼き色がつくまで焼きます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "野菜を加え、柔らかくなるまで焼く。",
+        "note": "野菜は焦げないように注意しながら焼きます。",
+        "image": ""
+      },
+      {
+        "step_number": 5,
+        "description": "焼き上がった鶏肉と野菜を盛り付ける。",
+        "note": "盛り付ける際、彩りよく配置すると見た目も美しくなります。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      }
+    ],
+    "labels": ["ヘルシー", "バランス"],
+    "cookingTime": "25分",
+    "nutrition": {
+      "protein": "25g",
+      "fat": "10g",
+      "carbohydrates": "15g",
+      "vitamins": ["ビタミンC", "ビタミンA"],
+      "minerals": ["カリウム", "マグネシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "このグリルドチキンと野菜の料理は、ヘルシーで満足感があります。彩りも鮮やかで、食卓を華やかにしてくれます。",
+    "published_at": "2024-09-02T10:00:00Z",
+    "likes": 60
+  },
+  {
+    "_id": "5",
+    "title": "和風だし巻き卵",
+    "catchCopy": "だしの風味が効いたふんわりとしただし巻き卵。",
+    "calories": "200 kcal",
+    "category": "副菜",
+    "ingredients": [
+      { "name": "卵", "quantity": "3個" },
+      { "name": "だし汁", "quantity": "50ml" },
+      { "name": "醤油", "quantity": "大さじ1" },
+      { "name": "みりん", "quantity": "大さじ1" },
+      { "name": "砂糖", "quantity": "小さじ1" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "卵をボウルに割り入れ、だし汁、醤油、みりん、砂糖を加えて混ぜる。",
+        "note": "卵はしっかりと溶きほぐし、均一に混ぜる。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "フライパンに油を熱し、卵液を少量ずつ流し入れて巻く。",
+        "note": "卵液は一度に全て流し入れず、少しずつ加えて巻いていく。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "だし巻き卵が焼きあがったら、食べやすい大きさに切る。",
+        "note": "焼き上がったらすぐに取り出し、形を整える。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "器に盛り付けて完成。",
+        "note": "お好みで大根おろしを添えると、一層美味しくなります。",
+        "image": ""
+      }
+    ],
+    "labels": ["和食", "家庭料理"],
+    "cookingTime": "15分",
+    "nutrition": {
+      "protein": "12g",
+      "fat": "14g",
+      "carbohydrates": "5g",
+      "vitamins": ["ビタミンA", "ビタミンB12"],
+      "minerals": ["カルシウム", "鉄"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "だしの風味が効いただし巻き卵は、日本の家庭料理の定番です。ふんわりとした食感がたまらない一品です。",
+    "published_at": "2024-09-04T10:00:00Z",
+    "likes": 45
+  },
+  {
+    "_id": "6",
+    "title": "ビーフシチュー",
+    "catchCopy": "濃厚でコクのあるビーフシチュー。",
+    "calories": "500 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "牛肉", "quantity": "300g" },
+      { "name": "玉ねぎ", "quantity": "2個" },
+      { "name": "にんじん", "quantity": "1本" },
+      { "name": "じゃがいも", "quantity": "2個" },
+      { "name": "赤ワイン", "quantity": "200ml" },
+      { "name": "ビーフシチューのルー", "quantity": "1箱" },
+      { "name": "水", "quantity": "600ml" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "牛肉を一口大に切り、塩・胡椒をまぶす。",
+        "note": "牛肉に下味をつけておくと、味がしっかりとつきます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "玉ねぎを薄切りにする。",
+        "note": "玉ねぎを炒めるときは、焦げないように注意してください。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "にんじんとじゃがいもを一口大に切る。",
+        "note": "じゃがいもは切った後、水にさらしておくと変色を防げます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "鍋に油を熱し、牛肉を焼く。",
+        "note": "牛肉は表面に焼き色がつくまで焼きます。",
+        "image": ""
+      },
+      {
+        "step_number": 5,
+        "description": "玉ねぎ、にんじん、じゃがいもを加えて炒める。",
+        "note": "野菜がしんなりするまで炒めます。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      },
+      {
+        "step_number": 6,
+        "description": "赤ワインを注ぎ、アルコールを飛ばす。",
+        "note": "赤ワインを加えた後は、強火でアルコールを飛ばします。",
+        "image": ""
+      },
+      {
+        "step_number": 7,
+        "description": "水を加え、野菜が柔らかくなるまで煮込む。",
+        "note": "弱火でじっくりと煮込むことで、具材に味が染み込みます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 8,
+        "description": "ビーフシチューのルーを加えて溶かし、さらに煮込む。",
+        "note": "ルーを加えた後は焦げないように注意しながら煮込みます。",
+        "image": ""
+      }
+    ],
+    "labels": ["濃厚", "洋食"],
+    "cookingTime": "90分",
+    "nutrition": {
+      "protein": "35g",
+      "fat": "20g",
+      "carbohydrates": "40g",
+      "vitamins": ["ビタミンA", "ビタミンC"],
+      "minerals": ["鉄", "亜鉛"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "4人前",
+    "story": "濃厚でコクのあるビーフシチューは、寒い季節にぴったりの一品です。赤ワインの風味が加わり、リッチな味わいを楽しめます。",
+    "published_at": "2024-09-03T10:00:00Z",
+    "likes": 70
+  },
+  {
+    "_id": "7",
+    "title": "トマトとモッツァレラのサラダ",
+    "catchCopy": "フレッシュなトマトとモッツァレラチーズのシンプルなサラダ。",
+    "calories": "150 kcal",
+    "category": "副菜",
+    "ingredients": [
+      { "name": "トマト", "quantity": "2個" },
+      { "name": "モッツァレラチーズ", "quantity": "100g" },
+      { "name": "バジル", "quantity": "10枚" },
+      { "name": "オリーブオイル", "quantity": "大さじ2" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "トマトをスライスする。",
+        "note": "トマトは薄めにスライスすると食べやすくなります。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "モッツァレラチーズをスライスする。",
+        "note": "チーズはトマトと同じ厚さにスライスすると見た目がきれいです。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "バジルをちぎってトマトとチーズに散らす。",
+        "note": "バジルは手でちぎることで香りが引き立ちます。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "オリーブオイルをかけ、塩・胡椒で味を整える。",
+        "note": "オリーブオイルはエキストラバージンオリーブオイルを使うと風味が良くなります。",
+        "image": ""
+      }
+    ],
+    "labels": ["シンプル", "ヘルシー"],
+    "cookingTime": "10分",
+    "nutrition": {
+      "protein": "8g",
+      "fat": "12g",
+      "carbohydrates": "4g",
+      "vitamins": ["ビタミンC", "ビタミンA"],
+      "minerals": ["カルシウム", "カリウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/66cc66/fff",
+    "serves": "2人前",
+    "story": "フレッシュなトマトとモッツァレラチーズのシンプルなサラダは、素材の味を活かした一品です。バジルの香りがアクセントになります。",
+    "published_at": "2024-09-06T10:00:00Z",
+    "likes": 55
+  },
+  {
+    "_id": "8",
+    "title": "バターチキンカレー",
+    "catchCopy": "クリーミーでマイルドなバターチキンカレー。",
+    "calories": "600 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "鶏もも肉", "quantity": "300g" },
+      { "name": "玉ねぎ", "quantity": "1個" },
+      { "name": "トマト缶", "quantity": "1缶" },
+      { "name": "生クリーム", "quantity": "100ml" },
+      { "name": "バター", "quantity": "50g" },
+      { "name": "カレーパウダー", "quantity": "大さじ2" },
+      { "name": "塩", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "鶏もも肉を一口大に切り、塩・胡椒をまぶす。",
+        "note": "鶏肉に下味をつけておくと、味がしっかりとつきます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "玉ねぎをみじん切りにする。",
+        "note": "玉ねぎを炒めるときは、焦げないように注意してください。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "鍋にバターを溶かし、玉ねぎを炒める。",
+        "note": "玉ねぎが透明になるまで炒めます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "鶏肉を加えて炒める。",
+        "note": "鶏肉の表面が白くなるまで炒めます。",
+        "image": ""
+      },
+      {
+        "step_number": 5,
+        "description": "トマト缶とカレーパウダーを加えて煮込む。",
+        "note": "トマトが崩れるまで煮込みます。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      },
+      {
+        "step_number": 6,
+        "description": "生クリームを加えてさらに煮込む。",
+        "note": "生クリームを加えた後は、焦げないように注意しながら煮込みます。",
+        "image": ""
+      },
+      {
+        "step_number": 7,
+        "description": "最後にバターを加えて仕上げる。",
+        "note": "バターを加えることで、コクと風味が増します。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      }
+    ],
+    "labels": ["クリーミー", "マイルド"],
+    "cookingTime": "45分",
+    "nutrition": {
+      "protein": "35g",
+      "fat": "40g",
+      "carbohydrates": "15g",
+      "vitamins": ["ビタミンA", "ビタミンC"],
+      "minerals": ["鉄", "カルシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "4人前",
+    "story": "クリーミーでマイルドなバターチキンカレーは、辛さ控えめで子供にも人気の一品です。バターのコクとトマトの酸味が絶妙にマッチしています。",
+    "published_at": "2024-09-07T10:00:00Z",
+    "likes": 65
+  },
+  {
+    "_id": "9",
+    "title": "ガーリックシュリンプ",
+    "catchCopy": "にんにくの風味が効いたガーリックシュリンプ。",
+    "calories": "250 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "エビ", "quantity": "300g" },
+      { "name": "にんにく", "quantity": "3片" },
+      { "name": "バター", "quantity": "50g" },
+      { "name": "レモン", "quantity": "1個" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" },
+      { "name": "パセリ", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "エビの殻をむき、背わたを取る。",
+        "note": "背わたをしっかり取ることで、食感が良くなります。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "にんにくをみじん切りにする。",
+        "note": "にんにくは細かく刻むと風味が増します。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "フライパンにバターを溶かし、にんにくを炒める。",
+        "note": "にんにくが香ばしくなるまで炒めます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "エビを加えて炒める。",
+        "note": "エビは火が通りやすいので、炒め過ぎに注意してください。",
+        "image": ""
+      },
+      {
+        "step_number": 5,
+        "description": "塩・胡椒で味を整え、レモン汁を絞る。",
+        "note": "レモン汁を加えることで、さっぱりとした味わいになります。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      },
+      {
+        "step_number": 6,
+        "description": "仕上げにパセリを散らして完成。",
+        "note": "パセリは彩りを添えるために使用します。",
+        "image": ""
+      }
+    ],
+    "labels": ["風味豊か", "簡単"],
+    "cookingTime": "20分",
+    "nutrition": {
+      "protein": "20g",
+      "fat": "15g",
+      "carbohydrates": "5g",
+      "vitamins": ["ビタミンB12", "ビタミンE"],
+      "minerals": ["亜鉛", "カリウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "にんにくの風味が効いたガーリックシュリンプは、おつまみにもぴったりの一品です。簡単に作れるので、忙しい日でも手軽に楽しめます。",
+    "published_at": "2024-09-08T10:00:00Z",
+    "likes": 85
+  },
+  {
+    "_id": "10",
+    "title": "ビーフステーキ",
+    "catchCopy": "ジューシーで香ばしいビーフステーキ。",
+    "calories": "400 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "牛肉", "quantity": "200g" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" },
+      { "name": "にんにく", "quantity": "1片" },
+      { "name": "バター", "quantity": "10g" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "牛肉に塩・胡椒をふる。",
+        "note": "塩・胡椒は焼く直前にふることで、肉の水分が抜けにくくなります。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "フライパンにバターを溶かし、みじん切りにしたにんにくを炒める。",
+        "note": "にんにくが香ばしくなるまで炒めます。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "牛肉をフライパンに入れ、中火で両面に焼き色をつける。",
+        "note": "牛肉は強火で一気に焼き色をつけると、ジューシーに仕上がります。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "弱火にして蓋をし、好みの焼き加減に仕上げる。",
+        "note": "蓋をすることで均一に火が通ります。",
+        "image": ""
+      }
+    ],
+    "labels": ["ジューシー", "香ばしい"],
+    "cookingTime": "15分",
+    "nutrition": {
+      "protein": "25g",
+      "fat": "30g",
+      "carbohydrates": "0g",
+      "vitamins": ["ビタミンB12"],
+      "minerals": ["鉄", "亜鉛"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "1人前",
+    "story": "ジューシーで香ばしいビーフステーキは、シンプルな味付けで肉の旨味を引き出した一品です。特別な日のディナーに最適です。",
+    "published_at": "2024-09-09T10:00:00Z",
+    "likes": 95
+  },
+  {
+    "_id": "11",
+    "title": "トリュフ香るクリームパスタ",
+    "catchCopy": "贅沢なトリュフの香りが漂う濃厚クリームパスタで、特別なひとときを。",
+    "calories": "650 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "フェットチーネ", "quantity": "150g" },
+      { "name": "生クリーム", "quantity": "100ml" },
+      { "name": "トリュフオイル", "quantity": "小さじ2" },
+      { "name": "パルメザンチーズ", "quantity": "50g" },
+      { "name": "マッシュルーム", "quantity": "100g" },
+      { "name": "にんにく", "quantity": "1片" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" },
+      { "name": "パセリ", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "フェットチーネを塩を入れた沸騰したお湯で茹でる。",
+        "note": "茹で時間はパッケージの指示に従ってください。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "フライパンでオリーブオイルを熱し、スライスしたにんにくを香りが立つまで炒める。",
+        "note": "焦げないように注意しましょう。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "薄切りにしたマッシュルームを加えて炒め、生クリームを注ぎ、弱火で煮詰める。",
+        "note": "生クリームが煮詰まりすぎないよう、焦らずじっくりと。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "茹でたフェットチーネを加え、トリュフオイルとパルメザンチーズで味を調える。",
+        "note": "トリュフオイルは風味を引き立てるために最後に加えます。",
+        "image": ""
+      },
+      {
+        "step_number": 5,
+        "description": "お皿に盛り付け、パセリを散らして完成。",
+        "note": "仕上げにもう一度トリュフオイルをひと回しかけると、香りが引き立ちます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      }
+    ],
+    "labels": ["贅沢", "クリーミー"],
+    "cookingTime": "30分",
+    "nutrition": {
+      "protein": "18g",
+      "fat": "40g",
+      "carbohydrates": "55g",
+      "vitamins": ["ビタミンD"],
+      "minerals": ["カルシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "特別な日のディナーにぴったりなトリュフ香るクリームパスタです。濃厚なクリームと贅沢なトリュフの香りが相まって、優雅なひとときを演出します。",
+    "published_at": "2024-09-03T12:00:00Z",
+    "likes": 60
+  },
+  {
+    "_id": "12",
+    "title": "ミートボール入りトマトスープ",
+    "catchCopy": "ふわふわのミートボールがたっぷり入った、心温まるトマトスープ。",
+    "calories": "300 kcal",
+    "category": "副菜",
+    "ingredients": [
+      { "name": "牛ひき肉", "quantity": "200g" },
+      { "name": "玉ねぎ", "quantity": "1/2個" },
+      { "name": "パン粉", "quantity": "大さじ3" },
+      { "name": "トマト缶", "quantity": "1缶" },
+      { "name": "水", "quantity": "500ml" },
+      { "name": "にんにく", "quantity": "1片" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" },
+      { "name": "オリーブオイル", "quantity": "大さじ1" },
+      { "name": "パセリ", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "ボウルに牛ひき肉、みじん切りの玉ねぎ、パン粉、塩胡椒を入れてよく混ぜ、丸めてミートボールを作る。",
+        "note": "柔らかくなるまでしっかりとこねましょう。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "鍋にオリーブオイルを熱し、にんにくを炒めて香りを立たせる。",
+        "note": "にんにくが焦げないよう注意。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "トマト缶と水を加えて中火で煮立たせる。",
+        "note": "トマトの酸味が気になる場合は、砂糖を少量加えると良い。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 4,
+        "description": "ミートボールをスープに加え、弱火で20分煮込む。",
+        "note": "ミートボールに火が通るまで煮込みましょう。",
+        "image": ""
+      },
+      {
+        "step_number": 5,
+        "description": "仕上げにパセリを散らして完成。",
+        "note": "お好みでチーズを乗せても美味しいです。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      }
+    ],
+    "labels": ["心温まる", "ふわふわ"],
+    "cookingTime": "45分",
+    "nutrition": {
+      "protein": "15g",
+      "fat": "12g",
+      "carbohydrates": "20g",
+      "vitamins": ["ビタミンC"],
+      "minerals": ["鉄"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "寒い日にぴったりのトマトスープです。ふわふわのミートボールがたっぷり入っており、体の芯から温まります。",
+    "published_at": "2024-09-04T15:00:00Z",
+    "likes": 55
+  },
+  {
+    "_id": "13",
+    "title": "チキンとオートミールのプロテインボウル",
+    "catchCopy": "筋肉をつけたい方に最適な、シンプルで栄養満点のプロテインボウル。",
+    "calories": "700 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "鶏胸肉", "quantity": "200g" },
+      { "name": "オートミール", "quantity": "60g" },
+      { "name": "アボカド", "quantity": "1個" },
+      { "name": "卵", "quantity": "2個" },
+      { "name": "ほうれん草", "quantity": "100g" },
+      { "name": "オリーブオイル", "quantity": "大さじ2" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "鶏胸肉を塩胡椒で味付けし、グリルで焼く。",
+        "note": "中までしっかり火を通しましょう。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "オートミールを水または牛乳でふやかし、電子レンジで加熱する。",
+        "note": "ふやかす時間はお好みに合わせて調整可能。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "卵を半熟に茹で、アボカドと共にスライスする。",
+        "note": "卵は7分茹でると半熟になります。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "ボウルにオートミール、ほうれん草、鶏肉、アボカド、卵を盛り付け、オリーブオイルをかける。",
+        "note": "最後にもう一度塩胡椒で味を調えると良い。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      }
+    ],
+    "labels": ["高タンパク", "高糖質"],
+    "cookingTime": "25分",
+    "nutrition": {
+      "protein": "40g",
+      "fat": "30g",
+      "carbohydrates": "60g",
+      "vitamins": ["ビタミンB", "ビタミンC"],
+      "minerals": ["鉄", "亜鉛"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "1人前",
+    "story": "筋肉増強に最適な栄養素をバランス良く取り入れたプロテインボウル。鶏胸肉とオートミールで高タンパク、高糖質を実現しました。",
+    "published_at": "2024-09-05T12:00:00Z",
+    "likes": 75
+  },
+  {
+    "_id": "14",
+    "title": "サーモンとクスクスのエネルギーボウル",
+    "catchCopy": "高タンパク・高糖質の食材をたっぷり使った、筋肉増強にピッタリのボウル。",
+    "calories": "820 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "サーモン", "quantity": "150g" },
+      { "name": "クスクス", "quantity": "100g" },
+      { "name": "アスパラガス", "quantity": "100g" },
+      { "name": "レモン", "quantity": "1/2個" },
+      { "name": "オリーブオイル", "quantity": "大さじ3" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" },
+      { "name": "パセリ", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "サーモンをオリーブオイルとレモン汁でマリネし、グリルで焼く。",
+        "note": "皮目がパリッとするまで焼きます。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "クスクスを沸騰したお湯でふやかし、ほぐす。",
+        "note": "ふやかした後はフォークで軽く混ぜましょう。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "アスパラガスをグリルで焼き、軽く塩を振る。",
+        "note": "アスパラガスはシャキシャキ感が残る程度に焼くのがポイント。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "クスクス、サーモン、アスパラガスをボウルに盛り付け、パセリを散らす。",
+        "note": "仕上げにオリーブオイルをひと回しかけると風味が増します。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      }
+    ],
+    "labels": ["高タンパク", "エネルギー補給"],
+    "cookingTime": "30分",
+    "nutrition": {
+      "protein": "35g",
+      "fat": "28g",
+      "carbohydrates": "75g",
+      "vitamins": ["ビタミンD", "ビタミンB12"],
+      "minerals": ["カルシウム", "マグネシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "サーモンとクスクスを使用した、バルクアップに最適なエネルギーボウルです。豊富なタンパク質と炭水化物で筋力増強をサポートします。",
+    "published_at": "2024-09-06T14:00:00Z",
+    "likes": 60
+  },
+  {
+    "_id": "15",
+    "title": "ビーフステーキとサツマイモのスタミナプレート",
+    "catchCopy": "エネルギー補給に最適なスタミナプレート。高タンパク・高糖質で筋力増強をサポート。",
+    "calories": "950 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "牛サーロインステーキ", "quantity": "250g" },
+      { "name": "サツマイモ", "quantity": "200g" },
+      { "name": "にんにく", "quantity": "2片" },
+      { "name": "ローズマリー", "quantity": "少々" },
+      { "name": "オリーブオイル", "quantity": "大さじ2" },
+      { "name": "バター", "quantity": "大さじ1" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "牛サーロインステーキを常温に戻し、塩胡椒で味付けする。",
+        "note": "冷蔵庫から出したばかりの肉は硬くなりやすいので、常温に戻すことがポイント。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "フライパンにオリーブオイルを熱し、ステーキを焼く。",
+        "note": "中火で片面3分ずつ焼き、ローズマリーとにんにくを加えて香りを移す。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "サツマイモを茹で、食べやすい大きさに切る。",
+        "note": "柔らかくなったら湯切りし、バターを絡めて仕上げる。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "プレートにステーキとサツマイモを盛り付け、仕上げににんにくを散らす。",
+        "note": "お好みで赤ワインソースを添えると、さらに風味豊かになります。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      }
+    ],
+    "labels": ["高タンパク", "高糖質", "スタミナ"],
+    "cookingTime": "40分",
+    "nutrition": {
+      "protein": "50g",
+      "fat": "40g",
+      "carbohydrates": "60g",
+      "vitamins": ["ビタミンA", "ビタミンB6"],
+      "minerals": ["鉄", "カリウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "1人前",
+    "story": "高タンパクと高糖質をバランス良く取り入れたスタミナプレート。筋肉を効率よく成長させるための栄養が詰まっています。",
+    "published_at": "2024-09-07T18:00:00Z",
+    "likes": 85
+  },
+  {
+    "_id": "16",
+    "title": "チキンとクスクスの栄養満点プレート",
+    "catchCopy": "鶏むね肉とクスクスを使った高タンパク・高糖質の栄養満点メニュー。",
+    "calories": "850 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "鶏むね肉", "quantity": "200g" },
+      { "name": "クスクス", "quantity": "150g" },
+      { "name": "トマト", "quantity": "1個" },
+      { "name": "ズッキーニ", "quantity": "1/2本" },
+      { "name": "オリーブオイル", "quantity": "大さじ2" },
+      { "name": "パセリ", "quantity": "少々" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "鶏むね肉に塩胡椒で下味をつけ、オリーブオイルでソテーする。",
+        "note": "弱火でじっくり焼くことで柔らかく仕上げます。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "クスクスを熱湯で戻し、トマトとズッキーニを炒めて混ぜ合わせる。",
+        "note": "彩りを加えるため、野菜を炒めすぎないように注意。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "プレートにクスクスと鶏むね肉を盛り付け、パセリを散らす。",
+        "note": "オリーブオイルを少量かけると風味が豊かになります。",
+        "image": ""
+      }
+    ],
+    "labels": ["高タンパク", "高糖質", "栄養満点"],
+    "cookingTime": "30分",
+    "nutrition": {
+      "protein": "45g",
+      "fat": "25g",
+      "carbohydrates": "75g",
+      "vitamins": ["ビタミンC", "ビタミンB6"],
+      "minerals": ["鉄", "カリウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "鶏むね肉の高タンパクとクスクスの高糖質を組み合わせた、筋力増強をサポートするバランスの取れた一品。",
+    "published_at": "2024-09-10T10:00:00Z",
+    "likes": 72
+  },
+  {
+    "_id": "17",
+    "title": "サーモンと玄米のヘルシースタミナボウル",
+    "catchCopy": "オメガ3脂肪酸が豊富なサーモンとエネルギー源としての玄米を使った健康的なボウル。",
+    "calories": "780 kcal",
+    "category": "主菜",
+    "ingredients": [
+      { "name": "サーモン", "quantity": "150g" },
+      { "name": "玄米", "quantity": "200g" },
+      { "name": "アボカド", "quantity": "1/2個" },
+      { "name": "きゅうり", "quantity": "1/2本" },
+      { "name": "醤油", "quantity": "大さじ1" },
+      { "name": "ごま油", "quantity": "小さじ1" },
+      { "name": "わさび", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "サーモンを刺身用に切り、醤油とわさびで軽くマリネする。",
+        "note": "長時間漬けると風味が強くなりすぎるので、短時間がベスト。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "玄米を炊き、アボカドときゅうりを薄切りにする。",
+        "note": "玄米は炊き上がりが固くならないように少し多めの水を使う。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "ボウルに玄米を盛り、サーモン、アボカド、きゅうりを彩りよく盛り付ける。",
+        "note": "ごま油を垂らして、さらに風味をアップ。",
+        "image": "https://dummyimage.com/250x150/9966cc/fff"
+      }
+    ],
+    "labels": ["高タンパク", "オメガ3", "高糖質"],
+    "cookingTime": "25分",
+    "nutrition": {
+      "protein": "35g",
+      "fat": "20g",
+      "carbohydrates": "85g",
+      "vitamins": ["ビタミンD", "ビタミンB12"],
+      "minerals": ["亜鉛", "カリウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/9966cc/fff",
+    "serves": "2人前",
+    "story": "サーモンの良質な脂肪と玄米のエネルギーで、疲労回復と筋力向上を同時にサポートする一皿。",
+    "published_at": "2024-09-12T12:00:00Z",
+    "likes": 95
+  },
+  {
+    "_id": "18",
+    "title": "きゅうりとトマトのデトックスサラダ",
+    "catchCopy": "むくみ解消に役立つカリウム豊富なきゅうりとトマトのさっぱりサラダ。",
+    "calories": "150 kcal",
+    "category": "副菜",
+    "ingredients": [
+      { "name": "きゅうり", "quantity": "1本" },
+      { "name": "トマト", "quantity": "1個" },
+      { "name": "赤玉ねぎ", "quantity": "1/4個" },
+      { "name": "レモン汁", "quantity": "大さじ2" },
+      { "name": "オリーブオイル", "quantity": "大さじ1" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "きゅうり、トマト、赤玉ねぎを食べやすい大きさにスライスする。",
+        "note": "薄めにスライスすることで、食感が良くなります。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "レモン汁、オリーブオイル、塩、胡椒を混ぜてドレッシングを作る。",
+        "note": "味を見ながら塩加減を調整してください。",
+        "image": "https://dummyimage.com/250x150/66cc66/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "スライスした野菜をボウルに入れ、ドレッシングで和える。",
+        "note": "全体が均一にドレッシングと混ざるようにしっかり混ぜます。",
+        "image": ""
+      }
+    ],
+    "labels": ["デトックス", "カリウム豊富", "むくみ解消"],
+    "cookingTime": "10分",
+    "nutrition": {
+      "protein": "2g",
+      "fat": "7g",
+      "carbohydrates": "15g",
+      "vitamins": ["ビタミンC", "ビタミンK"],
+      "minerals": ["カリウム", "マグネシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/66cc66/fff",
+    "serves": "2人前",
+    "story": "カリウムが豊富なきゅうりとトマトが、むくみの原因となる余分な水分を体外へ排出するのを助けるデトックスサラダです。",
+    "published_at": "2024-09-20T12:00:00Z",
+    "likes": 45
+  },
+  {
+    "_id": "19",
+    "title": "スイカとミントのフレッシュジュース",
+    "catchCopy": "むくみ解消に最適なスイカと爽やかなミントを使ったリフレッシュジュース。",
+    "calories": "90 kcal",
+    "category": "飲み物",
+    "ingredients": [
+      { "name": "スイカ", "quantity": "300g" },
+      { "name": "ミントの葉", "quantity": "10枚" },
+      { "name": "レモン汁", "quantity": "大さじ1" },
+      { "name": "氷", "quantity": "適量" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "スイカを一口大に切り、ミキサーに入れる。",
+        "note": "スイカの種を取り除いてからミキサーにかけると滑らかに仕上がります。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "ミントの葉、レモン汁、氷を加えてミキサーで攪拌する。",
+        "note": "ミントの香りが出るまでしっかり混ぜましょう。",
+        "image": "https://dummyimage.com/250x150/66ccff/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "グラスに注いで、仕上げにミントの葉を飾る。",
+        "note": "お好みで蜂蜜を加えても美味しいです。",
+        "image": ""
+      }
+    ],
+    "labels": ["スイカ", "ミント", "むくみ解消"],
+    "cookingTime": "5分",
+    "nutrition": {
+      "protein": "1g",
+      "fat": "0g",
+      "carbohydrates": "22g",
+      "vitamins": ["ビタミンC", "ビタミンA"],
+      "minerals": ["カリウム", "マグネシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/66ccff/fff",
+    "serves": "2人前",
+    "story": "スイカにはむくみ解消に効果的なカリウムが豊富に含まれており、ミントの清涼感が心地よいジュースです。",
+    "published_at": "2024-09-21T14:00:00Z",
+    "likes": 60
+  },
+  {
+    "_id": "20",
+    "title": "アボカドとチアシードのむくみ改善スムージー",
+    "catchCopy": "栄養価が高いアボカドとチアシードで作る、むくみ解消をサポートするスムージー。",
+    "calories": "250 kcal",
+    "category": "飲み物",
+    "ingredients": [
+      { "name": "アボカド", "quantity": "1/2個" },
+      { "name": "バナナ", "quantity": "1本" },
+      { "name": "チアシード", "quantity": "大さじ1" },
+      { "name": "アーモンドミルク", "quantity": "200ml" },
+      { "name": "はちみつ", "quantity": "小さじ1" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "チアシードをアーモンドミルクに浸して10分ほど置き、ふやかす。",
+        "note": "チアシードが膨らんでゼリー状になるまで待ちましょう。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "アボカド、バナナ、はちみつ、ふやかしたチアシードをミキサーにかける。",
+        "note": "滑らかな状態になるまでしっかり混ぜます。",
+        "image": "https://dummyimage.com/250x150/ffcc66/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "グラスに注いで、冷やして提供する。",
+        "note": "お好みで氷を加えて冷たく仕上げても良いです。",
+        "image": ""
+      }
+    ],
+    "labels": ["アボカド", "チアシード", "むくみ解消"],
+    "cookingTime": "10分",
+    "nutrition": {
+      "protein": "5g",
+      "fat": "15g",
+      "carbohydrates": "35g",
+      "vitamins": ["ビタミンE", "ビタミンB6"],
+      "minerals": ["マグネシウム", "カリウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/ffcc66/fff",
+    "serves": "1人前",
+    "story": "アボカドとチアシードを組み合わせたスムージーは、栄養価が高く、むくみ解消にも効果的。簡単に作れるので、忙しい朝にもぴったりです。",
+    "published_at": "2024-09-22T10:00:00Z",
+    "likes": 72
+  },
+  {
+    "_id": "21",
+    "title": "わかめと豆腐の味噌汁",
+    "catchCopy": "日本の伝統的な朝食に欠かせない、シンプルで栄養豊富な味噌汁。",
+    "calories": "80 kcal",
+    "category": "汁物",
+    "ingredients": [
+      { "name": "豆腐", "quantity": "100g" },
+      { "name": "乾燥わかめ", "quantity": "大さじ1" },
+      { "name": "味噌", "quantity": "大さじ2" },
+      { "name": "だし汁", "quantity": "400ml" },
+      { "name": "ねぎ", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "だし汁を鍋で温め、沸騰直前まで加熱する。",
+        "note": "沸騰させないように注意。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "豆腐を食べやすい大きさに切り、鍋に加える。",
+        "note": "崩れないように優しく扱いましょう。",
+        "image": "https://dummyimage.com/250x150/99ccff/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "乾燥わかめを加え、しばらく煮込む。",
+        "note": "わかめはすぐに柔らかくなるので短時間で大丈夫。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "火を止め、味噌を溶き入れる。お好みでねぎを添える。",
+        "note": "味噌を加えた後は再加熱しないように。",
+        "image": ""
+      }
+    ],
+    "labels": ["和食", "低カロリー", "伝統的"],
+    "cookingTime": "15分",
+    "nutrition": {
+      "protein": "6g",
+      "fat": "3g",
+      "carbohydrates": "5g",
+      "vitamins": ["ビタミンK", "ビタミンB12"],
+      "minerals": ["カルシウム", "マグネシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/99ccff/fff",
+    "serves": "2人前",
+    "story": "日本の家庭料理の定番、味噌汁。わかめと豆腐の組み合わせが栄養バランスをサポートします。朝食や軽い夕食にぴったり。",
+    "published_at": "2024-09-23T08:00:00Z",
+    "likes": 50
+  },
+  {
+    "_id": "22",
+    "title": "かぼちゃのポタージュスープ",
+    "catchCopy": "甘みのあるかぼちゃを使ったクリーミーで優しい味わいのポタージュスープ。",
+    "calories": "180 kcal",
+    "category": "汁物",
+    "ingredients": [
+      { "name": "かぼちゃ", "quantity": "300g" },
+      { "name": "玉ねぎ", "quantity": "1/2個" },
+      { "name": "バター", "quantity": "大さじ1" },
+      { "name": "牛乳", "quantity": "200ml" },
+      { "name": "生クリーム", "quantity": "50ml" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "かぼちゃを一口大に切り、玉ねぎは薄切りにする。",
+        "note": "かぼちゃの皮は硬いので、切る際は注意。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "バターを溶かした鍋で玉ねぎを炒め、かぼちゃを加える。",
+        "note": "玉ねぎが透明になるまで炒める。",
+        "image": "https://dummyimage.com/250x150/ffcc66/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "水を加えてかぼちゃが柔らかくなるまで煮込む。",
+        "note": "かぼちゃがスムーズに潰せる柔らかさまで煮る。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "かぼちゃをつぶして滑らかにし、牛乳と生クリームを加え、塩胡椒で味を整える。",
+        "note": "とろみを調整しながら、焦げないように弱火で加熱する。",
+        "image": ""
+      }
+    ],
+    "labels": ["クリーミー", "ビタミンA豊富", "簡単"],
+    "cookingTime": "25分",
+    "nutrition": {
+      "protein": "4g",
+      "fat": "12g",
+      "carbohydrates": "20g",
+      "vitamins": ["ビタミンA", "ビタミンC"],
+      "minerals": ["カリウム", "鉄"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/ffcc66/fff",
+    "serves": "2人前",
+    "story": "かぼちゃの甘みを生かしたポタージュスープは、心も体も温まる一品。寒い季節にぴったりで、子どもから大人まで楽しめる優しい味わいです。",
+    "published_at": "2024-09-24T12:00:00Z",
+    "likes": 65
+  },
+  {
+    "_id": "23",
+    "title": "にんじんとしょうがのスパイシースープ",
+    "catchCopy": "体を内側から温める、にんじんとしょうがのスパイシーなスープ。",
+    "calories": "120 kcal",
+    "category": "汁物",
+    "ingredients": [
+      { "name": "にんじん", "quantity": "2本" },
+      { "name": "しょうが", "quantity": "1片" },
+      { "name": "玉ねぎ", "quantity": "1/2個" },
+      { "name": "チキンブロス", "quantity": "500ml" },
+      { "name": "オリーブオイル", "quantity": "大さじ1" },
+      { "name": "塩", "quantity": "少々" },
+      { "name": "胡椒", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "にんじんを薄切りにし、しょうがをすりおろす。玉ねぎはみじん切りにする。",
+        "note": "にんじんは薄く切ることで、煮込み時間が短縮されます。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "鍋にオリーブオイルを熱し、玉ねぎとしょうがを炒める。",
+        "note": "香りが立つまで炒めるのがポイント。",
+        "image": "https://dummyimage.com/250x150/ff9966/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "にんじんを加えて軽く炒めた後、チキンブロスを注ぎ、柔らかくなるまで煮る。",
+        "note": "スープが煮詰まらないように注意。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "スープをブレンダーで滑らかにし、塩胡椒で味を調える。",
+        "note": "お好みでさらにしょうがを加えると、よりスパイシーに。",
+        "image": ""
+      }
+    ],
+    "labels": ["スパイシー", "温める", "低カロリー"],
+    "cookingTime": "30分",
+    "nutrition": {
+      "protein": "3g",
+      "fat": "5g",
+      "carbohydrates": "18g",
+      "vitamins": ["ビタミンA", "ビタミンC"],
+      "minerals": ["鉄", "カリウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/ff9966/fff",
+    "serves": "2人前",
+    "story": "にんじんの甘みとしょうがのスパイスが絶妙にマッチしたスープ。寒い冬に体を芯から温める一品としておすすめです。",
+    "published_at": "2024-09-25T18:00:00Z",
+    "likes": 45
+  },
+  {
+    "_id": "24",
+    "title": "アーモンドフィナンシェ",
+    "catchCopy": "外はサクッと、中はしっとり。アーモンドの香ばしさが広がる贅沢フィナンシェ。",
+    "calories": "180 kcal",
+    "category": "デザート",
+    "ingredients": [
+      { "name": "アーモンドプードル", "quantity": "50g" },
+      { "name": "無塩バター", "quantity": "100g" },
+      { "name": "卵白", "quantity": "3個分" },
+      { "name": "薄力粉", "quantity": "30g" },
+      { "name": "粉砂糖", "quantity": "80g" },
+      { "name": "ベーキングパウダー", "quantity": "小さじ1/2" },
+      { "name": "バニラエッセンス", "quantity": "少々" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "バターを焦がしバターにして冷ます。",
+        "note": "焦がしバターにすると風味が豊かになります。",
+        "image": "https://dummyimage.com/250x150/996600/fff"
+      },
+      {
+        "step_number": 2,
+        "description": "卵白を泡立てずに混ぜ、粉砂糖、アーモンドプードル、薄力粉、ベーキングパウダーを加える。",
+        "note": "混ぜすぎないように注意する。",
+        "image": ""
+      },
+      {
+        "step_number": 3,
+        "description": "冷ました焦がしバターとバニラエッセンスを加え、生地をフィナンシェ型に流し込む。",
+        "note": "型にはバターを塗っておくと綺麗に外れます。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "180度に予熱したオーブンで15分ほど焼き上げる。",
+        "note": "表面がきつね色になったら焼き上がり。",
+        "image": ""
+      }
+    ],
+    "labels": ["しっとり", "サクサク", "アーモンド"],
+    "cookingTime": "30分",
+    "nutrition": {
+      "protein": "5g",
+      "fat": "12g",
+      "carbohydrates": "15g",
+      "vitamins": ["ビタミンE"],
+      "minerals": ["カルシウム", "鉄"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/996600/fff",
+    "serves": "6個分",
+    "story": "アーモンドの香ばしさがたまらないフィナンシェ。外はサクッと、中はしっとりした食感が特徴で、ティータイムにぴったりです。",
+    "pairing": ["紅茶", "コーヒー"],
+    "published_at": "2024-09-28T10:00:00Z",
+    "likes": 120
+  },
+  {
+    "_id": "25",
+    "title": "レモンマドレーヌ",
+    "catchCopy": "レモンの爽やかな風味が広がる、軽い食感のマドレーヌ。",
+    "calories": "150 kcal",
+    "category": "デザート",
+    "ingredients": [
+      { "name": "無塩バター", "quantity": "100g" },
+      { "name": "卵", "quantity": "2個" },
+      { "name": "砂糖", "quantity": "80g" },
+      { "name": "薄力粉", "quantity": "100g" },
+      { "name": "ベーキングパウダー", "quantity": "小さじ1" },
+      { "name": "レモンの皮", "quantity": "1個分" },
+      { "name": "レモン果汁", "quantity": "大さじ2" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "バターを溶かして冷ます。",
+        "note": "バターが冷めてから使うことで、生地が分離しにくくなります。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "卵と砂糖を白っぽくなるまで泡立て、レモンの皮と果汁を加える。",
+        "note": "レモンの香りをしっかり生地に練り込む。",
+        "image": "https://dummyimage.com/250x150/ffcc00/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "薄力粉とベーキングパウダーをふるい入れ、溶かしバターを加えて混ぜる。",
+        "note": "泡を潰さないようにサックリと混ぜる。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "マドレーヌ型に生地を流し込み、180度のオーブンで15分焼く。",
+        "note": "焼き色がつくまでしっかり焼き上げる。",
+        "image": ""
+      }
+    ],
+    "labels": ["爽やか", "レモン", "軽い食感"],
+    "cookingTime": "25分",
+    "nutrition": {
+      "protein": "4g",
+      "fat": "8g",
+      "carbohydrates": "20g",
+      "vitamins": ["ビタミンC"],
+      "minerals": ["カルシウム", "マグネシウム"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/ffcc00/fff",
+    "serves": "8個分",
+    "story": "レモンの香りが広がる爽やかなマドレーヌ。焼きたては外がカリッと、中はふんわり軽い食感が楽しめます。",
+    "pairing": ["ハーブティー", "アイスティー"],
+    "published_at": "2024-09-28T12:00:00Z",
+    "likes": 90
+  },
+  {
+    "_id": "26",
+    "title": "アップルタルト",
+    "catchCopy": "香ばしいタルト生地と甘酸っぱいリンゴの絶妙な組み合わせ。",
+    "calories": "300 kcal",
+    "category": "デザート",
+    "ingredients": [
+      { "name": "薄力粉", "quantity": "200g" },
+      { "name": "無塩バター", "quantity": "100g" },
+      { "name": "卵黄", "quantity": "1個" },
+      { "name": "砂糖", "quantity": "大さじ2" },
+      { "name": "水", "quantity": "大さじ2" },
+      { "name": "リンゴ", "quantity": "2個" },
+      { "name": "シナモン", "quantity": "小さじ1" },
+      { "name": "レモン果汁", "quantity": "大さじ1" }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "薄力粉とバターをすり合わせ、砂糖、卵黄、水を加えてタルト生地を作り、冷蔵庫で30分休ませる。",
+        "note": "生地が乾燥しないようにラップで包む。",
+        "image": ""
+      },
+      {
+        "step_number": 2,
+        "description": "リンゴを薄切りにし、レモン果汁とシナモンで味付けする。",
+        "note": "リンゴの酸味がアクセントに。",
+        "image": "https://dummyimage.com/250x150/ff6666/fff"
+      },
+      {
+        "step_number": 3,
+        "description": "タルト型に生地を敷き詰め、リンゴを並べる。",
+        "note": "リンゴは重ならないように丁寧に並べる。",
+        "image": ""
+      },
+      {
+        "step_number": 4,
+        "description": "180度に予熱したオーブンで25分焼き上げる。",
+        "note": "焼き色がついたら完成。",
+        "image": ""
+      }
+    ],
+    "labels": ["香ばしい", "タルト", "リンゴ"],
+    "cookingTime": "45分",
+    "nutrition": {
+      "protein": "4g",
+      "fat": "15g",
+      "carbohydrates": "35g",
+      "vitamins": ["ビタミンC", "ビタミンE"],
+      "minerals": ["カリウム", "鉄"]
+    },
+    "headerImage": "https://dummyimage.com/250x150/ff6666/fff",
+    "serves": "6人前",
+    "story": "香ばしいタルト生地と、シナモンで風味をつけた甘酸っぱいリンゴの組み合わせが絶品。焼きたてはもちろん、冷めても美味しくいただけます。",
+    "pairing": ["カフェラテ", "シナモンティー"],
+    "published_at": "2024-09-28T14:00:00Z",
+    "likes": 110
+  }
+]
